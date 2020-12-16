@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ACcounsts\Accounsts.csproj" />
+    <ProjectReference Include="..\Accounts\Account.csproj" />
+  </ItemGroup>
+
+</Project>
